@@ -6,4 +6,4 @@
 * Lieblingsfach: fast FI
 * Das kann ich gut: Steckbrief schreiben
 
-[Startseite](https://github.com/Peyda/Homework/blob/master/index.md)
+[Home](https://github.com/Peyda/Homework/blob/master/index.md)
